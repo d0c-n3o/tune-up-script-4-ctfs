@@ -1,7 +1,7 @@
 # Junior InCTF Writeup
 Writeups for Junior InCTF 2018.
 
-Note: Writeup is incomplete as they removed the challenges as I was writing this writeup. ??? in solutions indicate that I don't know what was there and I vaguely from my memory provided the solution.
+Note: Writeup is incomplete as they removed the challenges as I was writing this writeup. You might find some missing softwares or module please install those scripts using this script :- https://
 
 ## About CTF
 
